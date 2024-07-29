@@ -1,1 +1,5 @@
-<p style="text-align: center;"> test </p>
+<p align="center">
+
+test
+
+</p>
